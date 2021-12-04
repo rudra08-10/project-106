@@ -1,0 +1,34 @@
+body{
+    font-family:cursive;
+    background: #33FF78 ;
+}
+.header_div{
+    background: #F0FF33 ;
+    color: #3E31A3 ;
+}
+.header_div p{
+color: orangered;
+font-size: 12px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+.main_div button{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 20px;
+} 
+.footer{
+    position: fixed;
+    background: #F0FF33;
+    color:#3E31A3;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px #2DFFBB ;
+    
+}
